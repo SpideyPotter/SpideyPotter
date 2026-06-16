@@ -12,11 +12,40 @@ I enjoy working across **AI/ML**, **full-stack web development**, and **competit
 
 ## 🧠 Areas of Focus
 
-- 🤖 Artificial Intelligence, Deep Learning, and Generative AI
-- 🌐 Full-Stack Development with React, Next.js, Node.js, and modern APIs
-- 🧩 Data Structures, Algorithms, and Competitive Programming
-- ⚙️ Backend engineering and scalable system design
-- 🚀 Open-source collaboration and project-driven learning
+- 👁️ Computer Vision and AI-powered applications
+- 📱 Android app development and mobile-first solutions
+- 🤖 Machine Learning and end-to-end ML workflows
+- 🔌 Embedded systems with STM32 and ESP32
+- ⚙️ Practical AI engineering from data to deployment
+
+---
+
+## 🎓 Education
+
+| Degree | Institution | CGPA |
+|--------|-------------|------|
+| B.Tech – Computer Science Engineering | BML Munjal University | 9.01 |
+
+---
+
+## 💼 Experience
+
+### 🧪 Research Assistant — *BML Munjal University*  
+**May 2026 – July 2026**
+- Developed web and mobile application workflows for computer-vision-based agricultural crop disease detection and suggestion systems.
+
+### 🔬 Research Intern — *YRRNA Labs, IIT Kanpur*  
+**May 2025 – July 2025**
+- Worked on research-focused engineering tasks spanning AI/ML experimentation and implementation.
+- Developed a peer-to-peer module as a Dart package for Flutter-based applications.
+
+---
+
+## 🏆 Achievements
+
+- 🤖 Robotics Club Operations Lead
+- 🥈 2nd Place — Robothon 2025
+- 🎓 Dean Scholarship
 
 ---
 
